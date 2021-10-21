@@ -10,8 +10,8 @@
 - [Machine Learning (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Machine%20Learning.png)
 - [Machine Learning (inter)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intermediate%20Machine%20Learning.png)
 - [SQL (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_SQL_intro.png)
-- [SQL (adv)]()
-- [NLP](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_SQL_Natural%20Language%20Processing.png)
+- [SQL (adv)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_SQL_adv.png)
+- [NLP](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Natural%20Language%20Processing.png)
 
 3. Coursera
 - [Математика и Python для анализа данных]()
