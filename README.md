@@ -12,6 +12,7 @@
 - [SQL (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_SQL_intro.png)
 - [SQL (adv)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_SQL_adv.png)
 - [NLP](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Natural%20Language%20Processing.png)
+- [DL (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Deep%20Learning.png)
 
 3. Coursera
 - [Математика и Python для анализа данных]()
