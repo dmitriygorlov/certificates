@@ -15,9 +15,6 @@
 - [NLP](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Natural%20Language%20Processing.png)
 - [DL (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Deep%20Learning.png)
 
-3. Coursera
-- [Математика и Python для анализа данных]()
-
-4. Другое
+3. Другое
 - [ICAgile Certified Professional](https://www.icagile.com/credentials/8d00727c-e69a-49bb-b62a-70549c857403#)
 - [Python: основы и применение](https://github.com/dmitriygorlov/certificates/blob/main/rus_Stepik_python.pdf)
