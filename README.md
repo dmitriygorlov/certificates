@@ -20,3 +20,4 @@
 
 4. Другое
 - [ICAgile Certified Professional](https://www.icagile.com/credentials/8d00727c-e69a-49bb-b62a-70549c857403#)
+- [Python: основы и применение](https://github.com/dmitriygorlov/certificates/blob/main/rus_Stepik_python.pdf)
