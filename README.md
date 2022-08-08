@@ -16,6 +16,7 @@
 - [NLP](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Natural%20Language%20Processing.png)
 - [DL (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Deep%20Learning.png)
 - [Intro to Game AI](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning.png)
+- [Time Series](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Time%20Series.png)
 
 3. Другое
 - [ICAgile Certified Professional](https://www.icagile.com/credentials/8d00727c-e69a-49bb-b62a-70549c857403#)
