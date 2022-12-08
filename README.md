@@ -1,8 +1,7 @@
 # certificates
 Got IT!
 
-Main Ed:
-1. Practicum.Yandex
+1. Practicum.Yandex (Main DS Ed)
 - ["Data Scientist professional training course"](https://github.com/dmitriygorlov/certificates/blob/main/Yandex_data-science.pdf)
 
 2. Kaggle
