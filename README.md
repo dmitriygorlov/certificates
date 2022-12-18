@@ -4,7 +4,10 @@ Got IT!
 1. Practicum.Yandex (Main DS Ed)
 - ["Data Scientist professional training course"](https://github.com/dmitriygorlov/certificates/blob/main/Yandex_data-science.pdf)
 
-2. Kaggle
+2. Google Cloud Computing Foundations (edx)
+- [Cloud Computing Fundamentals](https://courses.edx.org/certificates/df126ba8278546e1bf0adee158682e00)
+
+1. Kaggle
 - [Python](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Python.png)
 - [Pandas](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Pandas.png)
 - [Intro](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Programming.png)
