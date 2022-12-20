@@ -6,6 +6,7 @@ Got IT!
 
 2. Google Cloud Computing Foundations (edx)
 - [Cloud Computing Fundamentals](https://courses.edx.org/certificates/df126ba8278546e1bf0adee158682e00)
+- [Infrastructure in Google Cloud](https://courses.edx.org/certificates/c5d8d013c8cc4be78926f783573b2b16)
 
 1. Kaggle
 - [Python](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Python.png)
