@@ -4,7 +4,7 @@ Got IT!
 0. Practicum.Yandex (Main DS Ed)
 - ["Data Scientist professional training course"](https://github.com/dmitriygorlov/certificates/blob/main/Yandex_data-science.pdf)
 
-1. Google Cloud Computing Foundations (edx)
+1. [Google Cloud Computing Foundations Professional Certificate](https://credentials.edx.org/credentials/4462b6c3195f4a98b61b4b68513dfde4/) (edX)
 - [Cloud Computing Fundamentals](https://courses.edx.org/certificates/df126ba8278546e1bf0adee158682e00)
 - [Infrastructure in Google Cloud](https://courses.edx.org/certificates/c5d8d013c8cc4be78926f783573b2b16)
 - [Networking and Security in Google Cloud](https://courses.edx.org/certificates/12a9b47481eb49a6a46bd5a32ec536e3)
