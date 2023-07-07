@@ -25,6 +25,7 @@ Got IT!
 - [Intro to Game AI](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning.png)
 - [Intro to AI Ethics](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20AI%20Ethics.png)
 - [Time Series](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Time%20Series.png)
+- [Feature Engineering](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Feature%20Engineering.png)
 
 3. Stepik
 - [Python](https://github.com/dmitriygorlov/certificates/blob/main/rus_Stepik_python.pdf)
