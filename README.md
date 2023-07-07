@@ -23,6 +23,7 @@ Got IT!
 - [DL (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Deep%20Learning.png)
 - [Computer vision](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Computer%20Vision.png)
 - [Intro to Game AI](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning.png)
+- [Intro to AI Ethics](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20AI%20Ethics.png)
 - [Time Series](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Time%20Series.png)
 
 3. Stepik
