@@ -26,6 +26,7 @@ Got IT!
 - [Intro to AI Ethics](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20AI%20Ethics.png)
 - [Time Series](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Time%20Series.png)
 - [Feature Engineering](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Feature%20Engineering.png)
+- [Machine Learning Explainability](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Machine%20Learning%20Explainability.png)
 
 3. Stepik
 - [Python](https://github.com/dmitriygorlov/certificates/blob/main/rus_Stepik_python.pdf)
