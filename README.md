@@ -15,6 +15,7 @@ Got IT!
 - [Pandas](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Pandas.png)
 - [Intro](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Programming.png)
 - [Data Cleaning](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Data%20Cleaning.png)
+- [Data Visualization](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Data%20Visualization.png")
 - [Machine Learning (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Machine%20Learning.png)
 - [Machine Learning (inter)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intermediate%20Machine%20Learning.png)
 - [SQL (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_SQL_intro.png)
