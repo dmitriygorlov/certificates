@@ -28,6 +28,7 @@ Got IT!
 - [Time Series](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Time%20Series.png)
 - [Feature Engineering](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Feature%20Engineering.png)
 - [Machine Learning Explainability](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Machine%20Learning%20Explainability.png)
+- [Geospatial Analysis](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Geospatial%20Analysis.png)
 
 3. Stepik
 - [Python](https://github.com/dmitriygorlov/certificates/blob/main/rus_Stepik_python.pdf)
