@@ -4,7 +4,8 @@ Got IT!
 0. Yandex.Practicum (Main DataScience Ed)
 - ["Data Scientist professional training course"](https://github.com/dmitriygorlov/certificates/blob/main/Yandex_data-science.pdf)
 
-1. [Google Cloud Computing Foundations Professional Certificate](https://credentials.edx.org/credentials/4462b6c3195f4a98b61b4b68513dfde4/) (edX)
+1. Google 
+- [Google Cloud Computing Foundations Professional Certificate](https://credentials.edx.org/credentials/4462b6c3195f4a98b61b4b68513dfde4/) (edX)
 - [Cloud Computing Fundamentals](https://courses.edx.org/certificates/df126ba8278546e1bf0adee158682e00)
 - [Infrastructure in Google Cloud](https://courses.edx.org/certificates/c5d8d013c8cc4be78926f783573b2b16)
 - [Networking and Security in Google Cloud](https://courses.edx.org/certificates/12a9b47481eb49a6a46bd5a32ec536e3)
@@ -38,4 +39,6 @@ Got IT!
 
 5. Other
 - [ICAgile Certified Professional](https://www.icagile.com/credentials/8d00727c-e69a-49bb-b62a-70549c857403#)
+- [GPT week by Yandex](https://lyceum.s3.yandex.net/gpt_certs/78_%D0%93%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%D0%B8%D1%87.pdf)
+
 
