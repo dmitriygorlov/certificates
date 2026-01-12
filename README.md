@@ -1,45 +1,55 @@
 # certificates
 Got IT!
 
-0. Yandex.Practicum (Main DataScience Ed)
-- ["Data Scientist professional training course"](https://github.com/dmitriygorlov/certificates/blob/main/Yandex_data-science.pdf)
+## Main program
+### Yandex Practicum (9 months)
+| Program | Certificate |
+| --- | --- |
+| Data Scientist professional training course | [Link](yandex/data-science.pdf) |
 
-1. Google 
-- [Google Cloud Computing Foundations Professional Certificate](https://credentials.edx.org/credentials/4462b6c3195f4a98b61b4b68513dfde4/) (edX)
-- [Cloud Computing Fundamentals](https://courses.edx.org/certificates/df126ba8278546e1bf0adee158682e00)
-- [Infrastructure in Google Cloud](https://courses.edx.org/certificates/c5d8d013c8cc4be78926f783573b2b16)
-- [Networking and Security in Google Cloud](https://courses.edx.org/certificates/12a9b47481eb49a6a46bd5a32ec536e3)
-- [Data, ML, and AI in Google Cloud](https://courses.edx.org/certificates/500fb0da5bb84fba8b904fcd0922f8f1)
+## Short courses and intensives
+### Google
+| Course | Certificate |
+| --- | --- |
+| Google Cloud Computing Foundations Professional Certificate (edX) | [Link](https://credentials.edx.org/credentials/4462b6c3195f4a98b61b4b68513dfde4/) |
+| Cloud Computing Fundamentals | [Link](https://courses.edx.org/certificates/df126ba8278546e1bf0adee158682e00) |
+| Infrastructure in Google Cloud | [Link](https://courses.edx.org/certificates/c5d8d013c8cc4be78926f783573b2b16) |
+| Networking and Security in Google Cloud | [Link](https://courses.edx.org/certificates/12a9b47481eb49a6a46bd5a32ec536e3) |
+| Data, ML, and AI in Google Cloud | [Link](https://courses.edx.org/certificates/500fb0da5bb84fba8b904fcd0922f8f1) |
 
-2. Kaggle
-- [Python](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Python.png)
-- [Pandas](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Pandas.png)
-- [Intro](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Programming.png)
-- [Data Cleaning](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Data%20Cleaning.png)
-- [Data Visualization](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Data%20Visualization.png")
-- [Machine Learning (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Machine%20Learning.png)
-- [Machine Learning (inter)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intermediate%20Machine%20Learning.png)
-- [SQL (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_SQL_intro.png)
-- [SQL (adv)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_SQL_adv.png)
-- [NLP](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Natural%20Language%20Processing.png)
-- [DL (intro)](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Deep%20Learning.png)
-- [Computer vision](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Computer%20Vision.png)
-- [Intro to Game AI](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning.png)
-- [Intro to AI Ethics](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Intro%20to%20AI%20Ethics.png)
-- [Time Series](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Time%20Series.png)
-- [Feature Engineering](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Feature%20Engineering.png)
-- [Machine Learning Explainability](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Machine%20Learning%20Explainability.png)
-- [Geospatial Analysis](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_Geospatial%20Analysis.png)
-- [Agents Intensive by Google](https://github.com/dmitriygorlov/certificates/blob/main/kaggle_agents_intensive_google.png)
+### Kaggle
+| Course | Certificate |
+| --- | --- |
+| Python | [Link](kaggle/python.png) |
+| Pandas | [Link](kaggle/pandas.png) |
+| Intro to Programming | [Link](kaggle/intro-to-programming.png) |
+| Data Cleaning | [Link](kaggle/data-cleaning.png) |
+| Data Visualization | [Link](kaggle/data-visualization.png) |
+| Machine Learning (intro) | [Link](kaggle/intro-to-machine-learning.png) |
+| Machine Learning (intermediate) | [Link](kaggle/intermediate-machine-learning.png) |
+| SQL (intro) | [Link](kaggle/sql-intro.png) |
+| SQL (advanced) | [Link](kaggle/sql-advanced.png) |
+| NLP | [Link](kaggle/natural-language-processing.png) |
+| Deep Learning (intro) | [Link](kaggle/intro-to-deep-learning.png) |
+| Computer Vision | [Link](kaggle/computer-vision.png) |
+| Intro to Game AI | [Link](kaggle/intro-to-game-ai-and-reinforcement-learning.png) |
+| Intro to AI Ethics | [Link](kaggle/intro-to-ai-ethics.png) |
+| Time Series | [Link](kaggle/time-series.png) |
+| Feature Engineering | [Link](kaggle/feature-engineering.png) |
+| Machine Learning Explainability | [Link](kaggle/machine-learning-explainability.png) |
+| Geospatial Analysis | [Link](kaggle/geospatial-analysis.png) |
+| Agents Intensive by Google | [Link](kaggle/agents-intensive-google.png) |
 
-3. Stepik
-- [Python](https://github.com/dmitriygorlov/certificates/blob/main/rus_Stepik_python.pdf)
+### Stepik
+| Course | Certificate |
+| --- | --- |
+| Python | [Link](stepik/python-ru.pdf) |
 
-4. Karpov Courses
-- [Docker]()
+### Other
+| Course | Certificate |
+| --- | --- |
+| ICAgile Certified Professional | [Link](https://www.icagile.com/credentials/8d00727c-e69a-49bb-b62a-70549c857403#) |
+| GPT week by Yandex | [Link](yandex/gpt-week-edtech.pdf) |
 
-5. Other
-- [ICAgile Certified Professional](https://www.icagile.com/credentials/8d00727c-e69a-49bb-b62a-70549c857403#)
-- [GPT week by Yandex](https://lyceum.s3.yandex.net/gpt_certs/78_%D0%93%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%D0%B8%D1%87.pdf)
-
-
+## Files (ru)
+- [Yandex Data Science (ru)](yandex/data-science-ru.pdf)
